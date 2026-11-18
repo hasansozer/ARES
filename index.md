@@ -1,4 +1,4 @@
-### ARES
+### ARES Home | [Contributors](./people.html) | [Publications](./publications.html) 
 
 Welcome to the web page of the ARES project. This project aims at developing **an evolutionary adversarial self-play framework** in which LLM-based agents iteratively challenge and improve one another. By combining **adversarial dynamics with evolutionary optimization**, ARES seeks to push beyond the limitations of static training and produce models that are robust, adaptive, and effective for software analysis tasks.
 
